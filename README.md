@@ -18,9 +18,9 @@ It uses a trained machine learning model 🤖 to analyze the input text and pred
 
 ## ✨ Features
 
--- 🖥️ Simple Flask web interface for news text input
--- ⚡ Real-time classification into 4 categories
--- 📊 Preprocessing and model integration for accurate predictions
+- 🖥️ Simple Flask web interface for news text input
+- ⚡ Real-time classification into 4 categories
+- 📊 Preprocessing and model integration for accurate predictions
 
 ---
 
