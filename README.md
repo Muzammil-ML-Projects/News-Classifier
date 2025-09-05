@@ -61,7 +61,7 @@ It uses a trained machine learning model 🤖 to analyze the input text and pred
 - 🌐 Simple web interface built with HTML + CSS + Flask.
 
   <details>
-  <summary>📌 Why use this project?</summary> This project is helpful for **students and beginners** who want to learn how to integrate **Flask + Machine Learning + NLP** for real-world applications. 
+  <summary>📌 Why use this project?</summary> This project is helpful for <b>students and beginners</b> who want to learn how to integrate <b>Flask + Machine Learning + NLP</b> for real-world applications. 
 </details>
 
 ---
