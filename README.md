@@ -2,11 +2,12 @@
   <img src="https://raw.githubusercontent.com/Muzammil-ML-Projects/Email-Spam-Detector/main/images/banner.png" alt="Email Spam Detector Banner" width="600"/>
 </p>
 
-# 📰 News Classifier
+## 📰 News Classifier
 
 Flask-based **News Classifier** that categorizes news articles into **Sports**, **World**, **Politics**, and **Tech/Science** using a **machine learning model**.
 
 ---
+
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
@@ -18,12 +19,12 @@ Flask-based **News Classifier** that categorizes news articles into **Sports**, 
 ### 📑 Table of Contents
 - [About](#-about)
 - [Tech Stack](#-tech-stack)
-- [How to Use](#-how-to-use)
+- [Features](#-features)
 - [Dataset](#-dataset)
 - [Screenshot](#-screenshot)
-- [Features](#-features)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
+- [How to Use](#-how-to-use)
 - [License](#-license)
 - [Contact](#-contact)
 
@@ -50,18 +51,19 @@ It uses a trained machine learning model 🤖 to analyze the input text and pred
 
 ---
 
-### 📂 How to Use
-1. Clone the repo
-   ```bash
-   git clone https://github.com/your-username/all-in-one-calculator.git
-   ```
-2. Navigate to the project folder
-   ```bash
-   cd all-in-one-calculator
-   ```
-3. Open `index.html` in your browser.
+✨ Features
 
+- 🧠 Uses NLP techniques (tokenization, TF-IDF) for text preprocessing.
+- 🤖 Machine Learning model trained on news dataset.
+- 🔎 Classifies news into Sports, World, Politics, Tech/Science.
+- 📊 Shows real-time prediction through Flask interface.
+- 🌐 Simple web interface built with HTML + CSS + Flask.
 
+  <details>
+  <summary>📌 Why use this project?</summary> This project is helpful for **students and beginners** who want to learn how to integrate **Flask + Machine Learning + NLP** for real-world applications. 
+</details>
+
+---
 
 ## 💾 Dataset
 
@@ -76,11 +78,42 @@ https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 ---
 
+### 📂 How to Use
+1. Clone the repo
+   ```bash
+   git clone https://github.com/your-username/all-in-one-calculator.git
+   ```
+2. Navigate to the project folder
+   ```bash
+   cd all-in-one-calculator
+   ```
+3. Open `index.html` in your browser.
+
+---
+
+📍 Roadmap
+
+- 🎨 Improve UI with a modern and responsive design.
+- 🗂️ Add database support to store classified news articles.
+- ☁️ Deploy on cloud platforms (Heroku / Render / AWS).
+- 📈 Add confidence score visualization for predictions.
+- 🌐 Extend to more categories (e.g., Business, Health, Entertainment).
+
+---
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repository and submit pull requests.
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Made with ❤️ by M Muzammil Irshad**
+<p align="center"><b>Made with ❤️ by M Muzammil Irshad</b></p>
 
+---
