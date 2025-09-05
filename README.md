@@ -37,6 +37,7 @@ This project is a Flask-based web application 🌐 that classifies news articles
 - 🌍 World
 - 🏛️ Politics
 - 🔬 Tech/Science
+
 It uses a trained machine learning model 🤖 to analyze the input text and predict the most relevant.
 
 ---
