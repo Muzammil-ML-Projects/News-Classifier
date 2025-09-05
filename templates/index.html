@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Classifier</title>
+    <link rel="stylesheet" href="{{url_for('static', filename = 'style.css') }}">
+    
+</head>
+<body>
+
+<div class="container">
+    <h1>News Classifier</h1>
+    <form action="predict" method="post" >
+    <textarea required name="newstext" id="newsText" placeholder="Paste news text here..."></textarea>
+    <button onclick="classifyNews()">Classify News</button>
+    </form>
+    <!-- <p id="preMsg"></p> -->
+    <div class="result" id="resultBox">
+        
+            {% if prediction %}
+           <p>{{prediction}}</p>
+           {% endif %}
+    </div>
+</div>
+
+
+</body>
+</html>
