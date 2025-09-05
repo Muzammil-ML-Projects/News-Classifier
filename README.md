@@ -33,10 +33,10 @@ Flask-based **News Classifier** that categorizes news articles into **Sports**, 
 ### 🔍 About
 
 This project is a Flask-based web application 🌐 that classifies news articles into four categories:
-🏅 Sports
-🌍 World
-🏛️ Politics
-🔬 Tech/Science
+- 🏅 Sports
+- 🌍 World
+- 🏛️ Politics
+- 🔬 Tech/Science
 It uses a trained machine learning model 🤖 to analyze the input text and predict the most relevant.
 
 ---
