@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Muzammil-ML-Projects/Email-Spam-Detector/main/images/banner.png" alt="Email Spam Detector Banner" width="600"/>
-</p>
-
 ## 📰 News Classifier
 
 Flask-based **News Classifier** that categorizes news articles into **Sports**, **World**, **Politics**, and **Tech/Science** using a **machine learning model**.
