@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 ## 🖼️ Screenshot / Demo
 
-![Screenshot](imges/ss.png)  
+![Screenshot](images/ss.png)  
 
 ---
 
