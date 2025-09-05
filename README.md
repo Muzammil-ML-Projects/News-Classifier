@@ -22,7 +22,7 @@ Flask-based **News Classifier** that categorizes news articles into **Sports**, 
 - [Features](#-features)
 - [Dataset](#-dataset)
 - [Screenshot](#-screenshot)
-- [Roadmap](#roadmap)
+- [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [How to Use](#-how-to-use)
 - [License](#-license)
@@ -111,6 +111,14 @@ Feel free to fork this repository and submit pull requests.
 ### 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+### 📬 Contact
+
+ [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cornerofcodes00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muzammil-irshad-05b863333)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@cornerofcodes)
 
 ---
 
