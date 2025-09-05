@@ -22,7 +22,7 @@ Flask-based **News Classifier** that categorizes news articles into **Sports**, 
 - [Features](#-features)
 - [Dataset](#-dataset)
 - [Screenshot](#-screenshot)
-- [Roadmap](#-roadmap)
+- [Roadmap](#roadmap)
 - [Contributing](#-contributing)
 - [How to Use](#-how-to-use)
 - [License](#-license)
@@ -51,7 +51,7 @@ It uses a trained machine learning model 🤖 to analyze the input text and pred
 
 ---
 
-✨ Features
+### ✨ Features
 
 - 🧠 Uses NLP techniques (tokenization, TF-IDF) for text preprocessing.
 - 🤖 Machine Learning model trained on news dataset.
@@ -91,7 +91,7 @@ https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 ---
 
-📍 Roadmap
+### 📍 Roadmap
 
 - 🎨 Improve UI with a modern and responsive design.
 - 🗂️ Add database support to store classified news articles.
@@ -101,14 +101,14 @@ https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 ---
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit pull requests.
 
 ---
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
